@@ -1,2 +1,0 @@
-# python
-Det de matriz
